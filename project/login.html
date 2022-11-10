@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <style>
+        *{
+            font-family: sans-serif;    
+        }
+        #container>img{
+            display: block;
+            margin: auto;
+            width: 80%;
+        }
+        #container{
+            box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+            width: 30%;
+            height: 600px;
+            margin: auto;
+            padding: 20px;
+            padding-top: 30px;
+        }
+        #container>h1{
+            text-align: center;
+        }
+        #container>input{
+           margin-bottom: 20px;
+           margin: auto;
+           display: block;
+           width: 60%;
+        }
+        #container>input:hover{
+            cursor: pointer;
+            border-color: #18FFFF
+        }
+        #container>h3{
+            text-align: center;
+            margin-bottom: 0px;
+            margin-top: 15px;
+        }
+        button{
+            display: block;
+            margin: auto;
+            margin-top: 20px;
+            height: 40px;
+            width: 20%;
+            font-size: 20px;
+            font-weight: bold;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <img src="https://drive.google.com/uc?id=1_7-X36ptIIgqAB3qMNYkG-5_abmNk6d6" alt="Google Drive">
+        <h1>Enter your details</h1>
+        <h3>Enter your name</h3>
+        <input placeholder="Name"type="text" name="" class="input">
+        <h3>Enter your E-mail</h3>
+        <input placeholder="E-mail"type="text" name="" class="input">
+        <h3>Enter your phone number</h3>
+        <input placeholder="Number"type="number" name="" class="input">
+        <h3>Enter your address</h3>
+        <input placeholder="Address"type="text" name="" class="input">
+        <button>Sign up</button>
+    </div>
+</body>
+</html>
+<script>
+    document.querySelector("button").addEventListener("click",function(){
+        alert("sign up sucessfull");
+        document.querySelector(".input").value=null;
+    });
+</script>

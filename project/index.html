@@ -16,14 +16,14 @@
             <option value="china">CHINA</option>
         </select>
         <div>
-            <input id="search" placeholder="Find cars,mobile phones and more..">
+            <input oninput="search()"id="search" placeholder="Find cars,mobile phones and more..">
             <svg id="svg"xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M0 0h24v24H0z" fill="none"/><path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></svg>    
         </div>
         <select name="" id="language">
             <option value="english">ENGLISH</option>
             <option value="hindi">हिंदी</option>
         </select>
-        <h3><a href="">Login</a></h3>
+        <h3><a href="login.html">Login</a></h3>
         <button>+SELL</button>
     </div>
     <div id="options">
@@ -39,5 +39,121 @@
         <h5>For rent:Houses & Apartments</h5>
     </div>
     <img id="banner" src="https://drive.google.com/uc?id=1xcNXwnRRxCgik9A49QfwVhZ51XEkOe4_" alt="Google Drive">
-    </body>
+    <h2>Fresh recommendations</h2>
+    <div id="container"></div>
+
+    <!-- down part -->
+    <button id="load_more">LOAD MORE</button>  
+    <div id="bottom1">
+        <img src="https://statics.olx.in/external/base/img/phone-app.webp" alt="">
+        <div>
+            <h1>TRY THE B&S APP</h1>
+            <P>Buy, sell and find just about anything using </P>
+            <p>the app on your mobile.</p>
+        </div>
+        <div id="playstore">
+            <h5>GET YOUR APP TODAY</h5>
+            <img src="https://statics.olx.in/external/base/img/appstore_2x.webp" alt="">
+            <img src="https://statics.olx.in/external/base/img/playstore_2x.webp" alt="">
+        </div>
+    </div>  
+    <div id="bottom">
+        <div>
+            <h4>POPULAR LOCATIONS</h4>
+            <p class="p">Kolkata</p>
+            <p class="p">Mumbai</p>
+            <p class="p">Chennai</p>
+            <p class="p">Pune</p>
+        </div>
+        <div>
+            <h4>TRENDING LOCATIONS</h4>
+            <p class="p">Bhubaneshwar</p>
+            <p class="p">Bhubaneshwar</p>
+            <p class="p">Chandigarh</p>
+            <p class="p">Nashik</p>
+        </div>
+        <div>
+            <h4>ABOUT US</h4>
+            <p class="p">About B&S Group</p>
+            <p class="p">Careers</p>
+            <p class="p">Contact Us</p>
+            <p class="p">B&SPeople</p>
+            
+        </div>
+        <div>
+            <h4>B&S</h4>
+            <p class="p">Help</p>
+            <p class="p">Sitemap</p>
+            <p class="p">Legal & Privacy information</p>
+            <p class="p">Blog</p>
+
+        </div>
+        <div id="so-pl">
+            <div id="social">
+                <h5>FOLLOW US</h5><br>
+                <img src="https://cdn-icons-png.flaticon.com/128/717/717392.png" alt="">
+                <img src="https://cdn-icons-png.flaticon.com/128/1384/1384085.png" alt="">
+                <img src="https://cdn-icons-png.flaticon.com/128/466/466963.png" alt="">
+                <img src="https://cdn-icons-png.flaticon.com/128/4255/4255285.png" alt="">
+            </div>
+            <div id="playstore2">
+                <img src="https://statics.olx.in/external/base/img/appstore_2x.webp" alt="">
+                <img src="https://statics.olx.in/external/base/img/playstore_2x.webp" alt="">
+            </div>
+        </div>
+    </div>
+</body>
 </html>
+
+
+
+
+
+<script>
+    let bag=[];
+    let cartitems=JSON.parse(localStorage.getItem("cartproducts")) || [];
+    let url="https://636c7e407f47ef51e14a40d6.mockapi.io/products";
+    fetch(url)
+    .then((res)=>res.json())
+    .then((data)=>{
+        bag=data;
+        displaycard(data);
+    });
+    function search(){
+        let q=document.querySelector("#search").value;
+        let newdata=bag.filter(function(elem){
+            return elem.name.toLowerCase().includes(q.toLocaleLowerCase());
+        });
+        displaycard(newdata);
+    }
+    function displaycard(data){
+        document.querySelector("#container").innerHTML="";
+        data.forEach(function (elem){
+        let div=document.createElement("div");
+        let imageprod=document.createElement("img");
+        imageprod.setAttribute("src",elem.avatar);
+
+        let price=document.createElement("h2");
+        price.innerText="₹"+elem.price;
+
+        let name=document.createElement("p");
+        name.innerText=elem.name;
+
+        let place=document.createElement("p");
+        place.innerText=elem.place;
+
+        let date=document.createElement("p");
+        date.innerText="Date:-"+elem.createdAt;
+
+        // let btn=document.createElement("button");
+        // btn.innerText="VIEW";
+        // btn.addEventListener("click",function(){
+        //     cartitems.push(elem);
+        //     localStorage.setItem("cartproducts",JSON.stringify(cartitems));
+        // })
+
+        div.append(imageprod,price,name,place,date);
+        document.querySelector("#container").append(div);
+        });
+    }
+</script>

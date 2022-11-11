@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="details.css"/>
+</head>
+<body>
+    <div id="nav">
+        <a href="index.html"><img src="https://dl.dropboxusercontent.com/s/naekk30r9xhiktl/B%26S.png?dl=0"></a>
+        <select name="" id="region">
+            <option value="">select  region</option>
+            <option value="india">INDIA</option>
+            <option value="china">CHINA</option>
+        </select>
+        <div>
+            <input oninput="search()"id="search" placeholder="Find cars,mobile phones and more..">
+            <svg id="svg"xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M0 0h24v24H0z" fill="none"/><path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></svg>    
+        </div>
+        <select name="" id="language">
+            <option value="english">ENGLISH</option>
+            <option value="hindi">हिंदी</option>
+        </select>
+        <h3><a href="login.html">Login</a></h3>
+        <button>+SELL</button>
+    </div>
+    <div id="main">
+        <div id="left">
+            <div id="logo">
+                <img id="imglogo"alt="">
+            </div>
+            <div>
+                <h2>Description</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt voluptates, praesentium accusantium delectus optio sed.</p>
+            </div>
+        </div>
+        <div id="right">
+            <div id="right1">
+                <h1></h1>
+                <h4></h4>
+                <p id="p"></p>
+                <p></p>
+            </div>
+            <div id="right2">
+                <h2>Seller description</h2>
+                <h3>Ranjan sahu</h3>
+                <p>Member since 2018</p>
+                <button>Chat with seller</button>
+            </div>
+            <div id="right3">
+                <h2>Posted in</h2>
+                <p></p>
+                <img src="https://dl.dropboxusercontent.com/s/a5j9bbyc1bmz6wq/g-map.png?dl=0" alt="">
+            </div>
+        </div>
+    </div>
+    <div id="bottom">
+        <div>
+            <h4>POPULAR LOCATIONS</h4>
+            <p class="p">Kolkata</p>
+            <p class="p">Mumbai</p>
+            <p class="p">Chennai</p>
+            <p class="p">Pune</p>
+        </div>
+        <div>
+            <h4>TRENDING LOCATIONS</h4>
+            <p class="p">Bhubaneshwar</p>
+            <p class="p">Bhubaneshwar</p>
+            <p class="p">Chandigarh</p>
+            <p class="p">Nashik</p>
+        </div>
+        <div>
+            <h4>ABOUT US</h4>
+            <p class="p">About B&S Group</p>
+            <p class="p">Careers</p>
+            <p class="p">Contact Us</p>
+            <p class="p">B&SPeople</p>
+            
+        </div>
+        <div>
+            <h4>B&S</h4>
+            <p class="p">Help</p>
+            <p class="p">Sitemap</p>
+            <p class="p">Legal & Privacy information</p>
+            <p class="p">Blog</p>
+
+        </div>
+        <div id="so-pl">
+            <div id="social">
+                <h5>FOLLOW US</h5><br>
+                <img src="https://cdn-icons-png.flaticon.com/128/717/717392.png" alt="">
+                <img src="https://cdn-icons-png.flaticon.com/128/1384/1384085.png" alt="">
+                <img src="https://cdn-icons-png.flaticon.com/128/466/466963.png" alt="">
+                <img src="https://cdn-icons-png.flaticon.com/128/4255/4255285.png" alt="">
+            </div>
+            <div id="playstore2">
+                <img src="https://statics.olx.in/external/base/img/appstore_2x.webp" alt="">
+                <img src="https://statics.olx.in/external/base/img/playstore_2x.webp" alt="">
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+<script>
+    let details=JSON.parse(localStorage.getItem("proddetails"));
+    document.querySelector("#imglogo").setAttribute("src",details.avatar);
+    document.querySelector("#right1>h1").innerText="₹"+details.price;
+    document.querySelector("#right1>h4").innerText=details.name;
+    document.querySelector("#p").innerText="Location:-"+details.place;
+</script>

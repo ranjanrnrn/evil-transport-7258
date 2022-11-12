@@ -1,0 +1,162 @@
+[
+    {
+      "createdAt": "02-NOV-22",
+      "name": "Yamaha R15 V3",
+      "avatar": "https://apollo-singapore.akamaized.net/v1/files/jr49qluod3uu-IN/image;s=300x600;q=60",
+      "price":  110000,
+      "place": "Chennai, Tamil Nadu",
+      "id": "1"
+     },
+    {
+      "createdAt": "02-OVB-22",
+      "name": "Honda shine 125cc",
+      "avatar": "https://apollo-singapore.akamaized.net/v1/files/j985l57hyfql1-IN/image;s=300x600;q=60",
+      "price": 14000,
+      "place": "Bengaluru, Karnataka",
+      "id": "2"
+     },
+    {
+      "createdAt": "02-NOV-22",
+      "name": "Honda Shine ",
+      "avatar": "https://apollo-singapore.akamaized.net/v1/files/ha8dofek37ze-IN/image;s=300x600;q=60",
+      "price": 23999,
+      "place": "Coimbatore, Tamilnadu",
+      "id": "3"
+     },
+    {
+      "createdAt": "12-NOV-22",
+      "name": "Bajaj discover",
+      "avatar": "https://apollo-singapore.akamaized.net/v1/files/3wmxww57f6ny-IN/image;s=300x600;q=60",
+      "price": 31500,
+      "place": "Kolkata, West Bengal",
+      "id": "4"
+     },
+     {
+        "createdAt": "12-NOV-22",
+        "name": "Hero hf deluxe",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/2yja4y8qcnfh2-IN/image;s=300x600;q=60",
+        "price": 48000,
+        "place": "Kolkata, West Bengal",
+        "id": "5"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Apache RTR",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/ujsjjqboe1w71-IN/image;s=300x600;q=60",
+        "price": 75000,
+        "place": " Mumbai, Maharashtra",
+        "id": "6"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "yamaha Fazer",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/detc2zu6tesa2-IN/image;s=300x600;q=60",
+        "price":  55000,
+        "place": " Nagercoil, Tamil Nadu",
+        "id": "7"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "KTM Rc200",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/rcqht0cbpuhb2-IN/image;s=300x600;q=60",
+        "price": 170000,
+        "place": "Lajpat Nagar 2, Delhi",
+        "id": "8"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Bajaj avanger 220f",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/xq6u033nq6a33-IN/image;s=300x600;q=60",
+        "price": 35000,
+        "place": "Ahmedabad, Gujarat",
+        "id": "9"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Passion Pro",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/isf7tehv6m141-IN/image;s=300x600;q=60",
+        "price": 65000,
+        "place": "Kolkata, West Bengal",
+        "id": "10"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "KTM",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/smdm7mfb53tn2-IN/image;s=300x600;q=60",
+        "price": 220000,
+        "place": "Ujjain, Madhya Pradesh",
+        "id": "11"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Splonder + bike",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/afj6apsc19ew2-IN/image;s=300x600;q=60",
+        "price": 30000,
+        "place": "Andheri West, Mumbai",
+        "id": "12"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Pulsar rs200",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/wyphfzm01ga53-IN/image;s=300x600;q=60",
+        "price": 96000,
+        "place": "Ashok Vihar, Delhi, Delhi",
+        "id": "13"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Hero Honda Hunk",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/250un81f9m041-IN/image;s=300x600;q=60",
+        "price": 25000,
+        "place": "Ashok Vihar, Delhi",
+        "id": "14"
+    },
+    {
+        "createdAt": "26-OCT-22",
+        "name": "Bajaj avenger 220",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/puqtic03t2ir2-IN/image;s=300x600;q=60",
+        "price":  75000,
+        "place": "Rajouri Garden, Delhi",
+        "id": "15"
+    },
+    {
+        "createdAt": "23-OCT-22",
+        "name": "Royal Enfield Bullet x",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/h0n3yh1a25c62-IN/image;s=300x600;q=60",
+        "price": 145000,
+        "place": "Ahmedabad, Gujarat",
+        "id": "16"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Hero honda",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/zi3gn4tjhl0o-IN/image;s=300x600;q=60",
+        "price":  50000,
+        "place": "Rohini, Delhi, Delhi",
+        "id": "17"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Pulsar 220f",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/h2jz6yjm91vy-IN/image;s=300x600;q=60",
+        "price": 70000,
+        "place": "Jabalpur, Madhya Pradesh",
+        "id": "18"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Yamaha fz self",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/zenfjfn79o3z1-IN/image;s=300x600;q=60",
+        "price": 27000,
+        "place": "Bengaluru, Karnataka",
+        "id": "19"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "TVS Apache RTR",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/ntm820new9dd2-IN/image;s=300x600;q=60",
+        "price": 120000,
+        "place": "Bengaluru, Karnataka",
+        "id": "20"
+    }
+]

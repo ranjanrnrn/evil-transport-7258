@@ -1,0 +1,162 @@
+[
+    {
+      "createdAt": "02-NOV-22",
+      "name": "Maruti Suzuki Baleno (2018)",
+      "avatar": "https://apollo-singapore.akamaized.net/v1/files/9vn84neo1bb6-IN/image;s=300x600;q=60",
+      "price":  740000,
+      "place": "Vijayawada, Andhra Pradesh",
+      "id": "1"
+     },
+    {
+      "createdAt": "02-OVB-22",
+      "name": "Hyundai Creta (2016)",
+      "avatar": "https://apollo-singapore.akamaized.net/v1/files/off5fae10w67-IN/image;s=300x600;q=60",
+      "price": 1035000,
+      "place": "Bengaluru, Karnataka",
+      "id": "2"
+     },
+    {
+      "createdAt": "02-NOV-22",
+      "name": "Renault Duster (2017)",
+      "avatar": "https://apollo-singapore.akamaized.net/v1/files/iqzcw7dnhtpj3-IN/image;s=300x600;q=60",
+      "price": 850000,
+      "place": "Coimbatore, Tamilnadu",
+      "id": "3"
+     },
+    {
+      "createdAt": "12-NOV-22",
+      "name": "Maruti Suzuki Celerio (2015)",
+      "avatar": "https://apollo-singapore.akamaized.net/v1/files/qtr09v1rpsu01-IN/image;s=300x600;q=60",
+      "price": 310000,
+      "place": "Kolkata, West Bengal",
+      "id": "4"
+     },
+     {
+        "createdAt": "12-NOV-22",
+        "name": "Maruti Suzuki Wagon R 1.0 (2015)",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/u5q92dw2qnjc3-IN/image;s=300x600;q=60",
+        "price": 305000,
+        "place": "Kolkata, West Bengal",
+        "id": "5"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Skoda Octavia (2022)",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/yn4p5osww8xp1-IN/image;s=300x600;q=60",
+        "price": 2885000,
+        "place": " Mumbai, Maharashtra",
+        "id": "6"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Skoda Laura (2010)",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/dkgwpg1hydm02-IN/image;s=300x600;q=60",
+        "price":  315000,
+        "place": " Nagercoil, Tamil Nadu",
+        "id": "7"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Maruti Suzuki Wagon R 1.0 (2013)",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/a8i9ahnlu1dm2-IN/image;s=300x600;q=60",
+        "price": 250000,
+        "place": "Lajpat Nagar 2, Delhi",
+        "id": "8"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Maruti Suzuki Ritz (2014)",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/a8wbqmdkj8lf3-IN/image;s=300x600;q=60",
+        "price": 325000,
+        "place": "Ahmedabad, Gujarat",
+        "id": "9"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Mercedes-Benz Cla (2017)",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/jmuhpbxjuecv1-IN/image;s=300x600;q=60",
+        "price": 2075000,
+        "place": "Kolkata, West Bengal",
+        "id": "10"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Hyundai I20 Active (2016)",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/rthdac2ofxan3-IN/image;s=300x600;q=60",
+        "price": 525000,
+        "place": "Ujjain, Madhya Pradesh",
+        "id": "11"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Maruti Suzuki Ertiga (2020)",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/08r3awrrhnuw1-IN/image;s=300x600;q=60",
+        "price": 1125000,
+        "place": "Andheri West, Mumbai",
+        "id": "12"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Ford Ecosport (2017)",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/393qfh6h2alv1-IN/image;s=300x600;q=60",
+        "price": 700000,
+        "place": "Ashok Vihar, Delhi, Delhi",
+        "id": "13"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Hyundai Creta (2020)",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/zhggupiac8j41-IN/image;s=300x600;q=60",
+        "price": 1925000,
+        "place": "Ashok Vihar, Delhi",
+        "id": "14"
+    },
+    {
+        "createdAt": "26-OCT-22",
+        "name": "Hyundai I10 (2010)",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/4vaww26jurut3-IN/image;s=300x600;q=60",
+        "price":  140000,
+        "place": "Rajouri Garden, Delhi",
+        "id": "15"
+    },
+    {
+        "createdAt": "23-OCT-22",
+        "name": "Mercedes-Benz Cla (2018)",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/qke42y9hx3d01-IN/image;s=300x600;q=60",
+        "price": 2711000,
+        "place": "Ahmedabad, Gujarat",
+        "id": "16"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Hyundai Verna (2017)",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/yyrv32lzw8gl1-IN/image;s=300x600;q=60",
+        "price": 880446,
+        "place": "Rohini, Delhi, Delhi",
+        "id": "17"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Kia Seltos (2021)",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/5yvvdpdqzdzm3-IN/image;s=300x600;q=60",
+        "price": 1550000,
+        "place": "Jabalpur, Madhya Pradesh",
+        "id": "18"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Honda City (2019)",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/vs8t55g86u6q1-IN/image;s=300x600;q=60",
+        "price": 957413,
+        "place": "Bengaluru, Karnataka",
+        "id": "19"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Volkswagen Vento (2012)",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/34a3qlj664ef-IN/image;s=300x600;q=60",
+        "price": 475000,
+        "place": "Bengaluru, Karnataka",
+        "id": "20"
+    }
+]

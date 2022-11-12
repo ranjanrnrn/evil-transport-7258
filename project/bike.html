@@ -9,7 +9,7 @@
 </head>
 <body>
     <div id="nav">
-        <img src="https://dl.dropboxusercontent.com/s/naekk30r9xhiktl/B%26S.png?dl=0" alt="B-S">
+        <a href="index.html"><img src="https://dl.dropboxusercontent.com/s/naekk30r9xhiktl/B%26S.png?dl=0"></a>
         <select name="" id="region">
             <option value="">select  region</option>
             <option value="india">INDIA</option>
@@ -30,14 +30,14 @@
         <select name="" id="">
             <option value="">ALL CATEGORIES</option>
         </select>
-        <a href="car.html">Cars</a>
-        <a href="bike.html">Motorcycle</a>
+        <a href="car.html" >Cars</a>
+        <a href=""style="border:2px solid rgb(0, 0, 0);padding: 5px">Motorcycle</a>
         <a href="">Mobiles phones</a>
         <a href="">Scooters</a>
         <a href="">Commercial & Others vehicles</a>
-        <a href="">Houses & Apartments</a>
+        <a href="">For rent:Houses & Apartments</a>
     </div>
-    <img id="banner" src="https://dl.dropboxusercontent.com/s/iw2x6lwm4eq1mpo/banner.png?dl=0" alt="banner">
+    <!-- <img id="banner" src="https://dl.dropboxusercontent.com/s/iw2x6lwm4eq1mpo/banner.png?dl=0" alt="banner"> -->
     <h2 id="h22">Fresh recommendations</h2>
     <div id="container"></div>
 
@@ -111,8 +111,7 @@
 <script>
     let bag=[];
     let cartitems=JSON.parse(localStorage.getItem("cartproducts")) || [];
-    let url="https://636c7e407f47ef51e14a40d6.mockapi.io/products";
-    fetch(url)
+    fetch("bike.json")
     .then((res)=>res.json())
     .then((data)=>{
         bag=data;

@@ -1,0 +1,114 @@
+[
+    {
+      "createdAt": "02-NOV-22",
+      "name": "Ground Floor:-One room set",
+      "avatar": "https://apollo-singapore.akamaized.net/v1/files/hgt9wz5b58eq3-IN/image;s=300x600;q=60",
+      "price":  12000,
+      "place": "Sector 70, Mohali, Punjab",
+      "id": "1"
+     },
+    {
+      "createdAt": "02-OVB-22",
+      "name": "1 BHK floor ",
+      "avatar": "https://apollo-singapore.akamaized.net/v1/files/1dfq52bsdn6w-IN/image;s=300x600;q=60",
+      "price": 18000,
+      "place": "Janakpuri, Delhi, Delhi",
+      "id": "2"
+     },
+    {
+      "createdAt": "02-NOV-22",
+      "name": "Semi - Furnished One room set",
+      "avatar": "https://apollo-singapore.akamaized.net/v1/files/d6epxm8d616h-IN/image;s=300x600;q=60",
+      "price": 6000,
+      "place": "New Ashok Nagar, Delhi, Delhi",
+      "id": "3"
+     },
+    {
+      "createdAt": "12-NOV-22",
+      "name": "New house.Housewarming ceremoney",
+      "avatar": "https://apollo-singapore.akamaized.net/v1/files/ep8xtgw0wp3k1-IN/image;s=300x600;q=60",
+      "price": 35000,
+      "place": "Whitefield, Bengaluru, Karnataka",
+      "id": "4"
+     },
+     {
+        "createdAt": "12-NOV-22",
+        "name": "Singh Property 2 BHK Flat Ren",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/afnlno2toeqb2-IN/image;s=300x600;q=60",
+        "price": 15000,
+        "place": "Sundarpur,Varanasi,Uttar Pradesh",
+        "id": "5"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "COUPLES GIRLS FAMLIYE 123BH",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/uo2hpen2g0cu1-IN/image;s=300x600;q=60",
+        "price": 15000,
+        "place": "Indira Nagar,Lucknow,Uttar Pradesh",
+        "id": "6"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "2 BEDROOM KITCHEN SET",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/9qva8hzy1wc73-IN/image;s=300x600;q=60",
+        "price":  9000,
+        "place": "Madhopur,Varanasi,Uttar Pradesh",
+        "id": "7"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "3 bhk flat on rent",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/rjfpynolkmw9-IN/image;s=300x600;q=60",
+        "price": 17500,
+        "place": "Vaishno Devi, Ahmedabad, Gujarat",
+        "id": "8"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "2 bhk flat rent furnished",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/6jzq2x460icm3-IN/image;s=300x600;q=60",
+        "price": 13500,
+        "place": "Gota, Ahmedabad, Gujarat",
+        "id": "9"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "2bhk flat without owner parking",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/wp59nw8m84563-IN/image;s=300x600;q=60",
+        "price": 14000,
+        "place": "Nirman Vihar, Delhi, Delhi",
+        "id": "10"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "1 BHK new build bike parking",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/o6njhoab44j6-IN/image;s=300x600;q=60",
+        "price": 13000,
+        "place": "Laxmi Nagar, Delhi, Delhi",
+        "id": "11"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Spacious two bedroom apartment",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/ywonbsdjmrjs-IN/image;s=300x600;q=60",
+        "price": 25000,
+        "place": "Ayanavaram, Chennai, Tamil Nadu",
+        "id": "12"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Flatmate for 2bhk Fully Furnished",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/nrtyg4xi1atl-IN/image;s=300x600;q=60",
+        "price": 6200,
+        "place": "DUMDUM, Kolkata, West Bengal",
+        "id": "13"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "2bhk semi furnished 3rd floor",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/h3vx3lpeikhz2-IN/image;s=300x600;q=60",
+        "price": 15000,
+        "place": "Kolkata, West Bengal",
+        "id": "14"
+    }
+]

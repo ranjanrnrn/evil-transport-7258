@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Buy & Sold/motorcycle</title>
+    <title>Buy & Sold/commercial_vehicle</title>
     <link rel="stylesheet" href="index.css" />
 </head>
 <body>
@@ -31,11 +31,11 @@
             <option value="">ALL CATEGORIES</option>
         </select>
         <a href="car.html" >Cars</a>
-        <a href=""style="border:2px solid rgb(0, 0, 0);padding: 5px">Motorcycle</a>
+        <a href="bike.html">Motorcycle</a>
         <a href="mobile.html">Mobiles phones</a>
         <a href="scooter.html">Scooters</a>
         <a href="othersvehicle.html">Commercial & Others vehicles</a>
-        <a href="renthouse.html">For rent:Houses & Apartments</a>
+        <a href=""style="border:2px solid rgb(0, 0, 0);padding: 5px">For rent:Houses & Apartments</a>
     </div>
     <!-- <img id="banner" src="https://dl.dropboxusercontent.com/s/iw2x6lwm4eq1mpo/banner.png?dl=0" alt="banner"> -->
     <h2 id="h22">Fresh recommendations</h2>
@@ -111,7 +111,7 @@
 <script>
     let bag=[];
     let cartitems=JSON.parse(localStorage.getItem("cartproducts")) || [];
-    fetch("bike.json")
+    fetch("renthouse.json")
     .then((res)=>res.json())
     .then((data)=>{
         bag=data;
@@ -148,7 +148,7 @@
         let date=document.createElement("p");
         date.innerText="Date:-"+elem.createdAt;
 
-
+        
 
         div.append(imageprod,price,name,place,date);
         anc.append(div);

@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Buy & Sold</title>
+    <title>Buy & Sold/car</title>
     <link rel="stylesheet" href="index.css" />
 </head>
 <body>
@@ -32,10 +32,10 @@
         </select>
         <a href="" style="border:2px solid rgb(0, 0, 0);padding: 5px;">Cars</a>
         <a href="bike.html">Motorcycle</a>
-        <a href="">Mobiles phones</a>
-        <a href="">Scooters</a>
-        <a href="">Commercial & Others vehicles</a>
-        <a href="">For rent:Houses & Apartments</a>
+        <a href="mobile.html">Mobiles phones</a>
+        <a href="scooter.html">Scooters</a>
+        <a href="othersvehicle.html">Commercial & Others vehicles</a>
+        <a href="renthouse.html">For rent:Houses & Apartments</a>
     </div>
     <!-- <img id="banner" src="https://dl.dropboxusercontent.com/s/iw2x6lwm4eq1mpo/banner.png?dl=0" alt="banner"> -->
     <h2 id="h22">Fresh recommendations</h2>
@@ -148,12 +148,7 @@
         let date=document.createElement("p");
         date.innerText="Date:-"+elem.createdAt;
 
-        // let btn=document.createElement("button");
-        // btn.innerText="VIEW";
-        // btn.addEventListener("click",function(){
-        //     cartitems.push(elem);
-        //     localStorage.setItem("cartproducts",JSON.stringify(cartitems));
-        // })
+
 
         div.append(imageprod,price,name,place,date);
         anc.append(div);

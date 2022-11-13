@@ -1,0 +1,146 @@
+[
+    {
+      "createdAt": "02-NOV-22",
+      "name": "Super carry",
+      "avatar": "https://apollo-singapore.akamaized.net/v1/files/iys18gniy1dx1-IN/image;s=300x600;q=60",
+      "price":  325000,
+      "place": "Naranapuram, Palladam, Tamil Nadu",
+      "id": "1"
+     },
+    {
+      "createdAt": "02-OVB-22",
+      "name": "Eicher 10.59",
+      "avatar": "https://apollo-singapore.akamaized.net/v1/files/cs1frgiofqln2-IN/image;s=300x600;q=60",
+      "price": 510000,
+      "place": "Veerapandi, Tiruppur, Tamil Nadu",
+      "id": "2"
+     },
+    {
+      "createdAt": "02-NOV-22",
+      "name": "Willy jeep Modified  ",
+      "avatar": "https://apollo-singapore.akamaized.net/v1/files/g11rkh6uzcwv1-IN/image;s=300x600;q=60",
+      "price": 430000,
+      "place": "HMT Pinjore, Pinjore, Haryana",
+      "id": "3"
+     },
+    {
+      "createdAt": "12-NOV-22",
+      "name": "Jeep Modified, MAHINDRA JEEP, ",
+      "avatar": "https://apollo-singapore.akamaized.net/v1/files/nqr86npvuh4u3-IN/image;s=300x600;q=60",
+      "price": 415000,
+      "place": "Dashmesh Nagar, Firozpur, Punjab",
+      "id": "4"
+     },
+     {
+        "createdAt": "12-NOV-22",
+        "name": "Ashok Leyland 2516",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/s5ub0obl7szx1-IN/image;s=300x600;q=60",
+        "price": 911000,
+        "place": "IUDP Colony,Washim,Maharashtra",
+        "id": "5"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Mahindra jayo ",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/bumsal0v30tv1-IN/image;s=300x600;q=60",
+        "price": 875000,
+        "place": "Kolenchery, Kochi, Kerala",
+        "id": "6"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "MAHINDRA BOLERO PIK UP",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/v83wcm3eokgd1-IN/image;s=300x600;q=60",
+        "price":  750000,
+        "place": "Konam, Nagercoil, Tamil Nadu",
+        "id": "7"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Mahindra Bolero maxitruck",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/wbr3hv2a1mlv1-IN/image;s=300x600;q=60",
+        "price": 435000,
+        "place": "Nedupuzha,Thrissur,Kerala",
+        "id": "8"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Chevrolet TAVERA NEO",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/lmi4vg7y5zxd1-IN/image;s=300x600;q=60",
+        "price": 575000,
+        "place": "Makloor,Nizambad,Telangana",
+        "id": "9"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "TATA 407 TIPPER",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/l1tb0wb2c84j1-IN/image;s=300x600;q=60",
+        "price": 630000,
+        "place": "Mel Paarai Kaadu, Salem, Tamil Nadu",
+        "id": "10"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "TATA LPT 709",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/99ziow7spwe13-IN/image;s=300x600;q=60",
+        "price": 1030000,
+        "place": "Mel Paarai Kaadu, Salem, Tamil Nadu",
+        "id": "11"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Tractor motor crane",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/fku8ig5syswp-IN/image;s=300x600;q=60",
+        "price": 135000,
+        "place": "Namakkal, Tamil Nadu",
+        "id": "12"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "MAHINDRA SUPRO MINI TRUCK",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/02mh783l5ktu1-IN/image;s=300x600;q=60",
+        "price": 350000,
+        "place": "Salem, Tamil Nadu",
+        "id": "13"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Dj full setup",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/xpskkvwx0a8h2-IN/image;s=300x600;q=60",
+        "price": 500000,
+        "place": "Bhopal, Madhya Pradesh",
+        "id": "14"
+    },
+    {
+        "createdAt": "26-OCT-22",
+        "name": "Good wark full nyz",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/bh8uy0re8hbe3-IN/image;s=300x600;q=60",
+        "price":  110000,
+        "place": "Sreekandapuram, Kannur, Kerala",
+        "id": "15"
+    },
+    {
+        "createdAt": "23-OCT-22",
+        "name": "Tipper loader Mahindra Arjun ultra",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/nojb3k7w66063-IN/image;s=300x600;q=60",
+        "price": 475000,
+        "place": "Neerakani Junction,Vittal,Karnataka",
+        "id": "16"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Ashok leyland 1612",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/lej3urw7bq0p2-IN/image;s=300x600;q=60",
+        "price":   850000,
+        "place": "Muvattupuzha, Muvattupuzha, Kerala",
+        "id": "17"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "SarvaShakthi Rotavator",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/7pe47nf1xskm3-IN/image;s=300x600;q=60",
+        "price": 82500,
+        "place": "Nagiaapambatti, Thammampatti, Tamil Nadu",
+        "id": "18"
+    }
+]

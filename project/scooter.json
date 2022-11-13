@@ -1,0 +1,162 @@
+[
+    {
+      "createdAt": "02-NOV-22",
+      "name": "TES Electric Scooter",
+      "avatar": "https://apollo-singapore.akamaized.net/v1/files/6lwyrcgv1sss2-IN/image;s=300x600;q=60",
+      "price":  55000,
+      "place": "Kudiyakau, Thrippunithura, Kerala",
+      "id": "1"
+     },
+    {
+      "createdAt": "02-OVB-22",
+      "name": "Hero Maestro",
+      "avatar": "https://apollo-singapore.akamaized.net/v1/files/8jgk7k08kkrc2-IN/image;s=300x600;q=60",
+      "price": 50000,
+      "place": "Kolkata, West Bengal",
+      "id": "2"
+     },
+    {
+      "createdAt": "02-NOV-22",
+      "name": "Aviator ",
+      "avatar": "https://apollo-singapore.akamaized.net/v1/files/y0lfn600jnbo1-IN/image;s=300x600;q=60",
+      "price": 18999,
+      "place": "Navi Mumbai, Maharashtra",
+      "id": "3"
+     },
+    {
+      "createdAt": "12-NOV-22",
+      "name": "Honda Activa",
+      "avatar": "https://apollo-singapore.akamaized.net/v1/files/9vtmqtt961u6-IN/image;s=300x600;q=60",
+      "price": 61000,
+      "place": "Hyderabad, Telangana",
+      "id": "4"
+     },
+     {
+        "createdAt": "12-NOV-22",
+        "name": "Honda Aviator",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/xscjdzpfmi8x-IN/image;s=300x600;q=60",
+        "price": 47000,
+        "place": "Kothamangalam, Kerala",
+        "id": "5"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Yamaha Fascino  ",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/qyvpiouzdhwv-IN/image;s=300x600;q=60",
+        "price": 57999,
+        "place": "Erakuvadu, Alappuzha, Kerala",
+        "id": "6"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Yamaha Ray scooty",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/8zxp09rlc2di-IN/image;s=300x600;q=60",
+        "price":  30000,
+        "place": "Unnao, Uttar Pradesh",
+        "id": "7"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Honda Activa 5G ",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/wc7x79iny7b33-IN/image;s=300x600;q=60",
+        "price": 66500,
+        "place": " Kalaburagi, Karnataka",
+        "id": "8"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Honda dio",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/m8rla1da02dm1-IN/image;s=300x600;q=60",
+        "price": 47000,
+        "place": "Bengaluru, Karnataka",
+        "id": "9"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Honda activa",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/ecrxqgb27a8z-IN/image;s=300x600;q=60",
+        "price": 25000,
+        "place": "Powai, Mumbai, Maharashtra",
+        "id": "10"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Honda Activa ",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/cag5ybfadpdl1-IN/image;s=300x600;q=60",
+        "price": 39999,
+        "place": "Vyttila, Kochi, Kerala",
+        "id": "11"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Hero Honda pleasure",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/cah14q3c0wuh2-IN/image;s=300x600;q=60",
+        "price": 19999,
+        "place": " Vyttila, Kochi, Kerala",
+        "id": "12"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Tvs NtORQ bs6",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/uawwtlbxe097-IN/image;s=300x600;q=60",
+        "price": 80000,
+        "place": "Model Town, Delhi, Delhi",
+        "id": "13"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Honda Activa 2011",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/3cx6r193c4ai3-IN/image;s=300x600;q=60",
+        "price": 28000,
+        "place": "Sri Ganganagar, Rajasthan",
+        "id": "14"
+    },
+    {
+        "createdAt": "26-OCT-22",
+        "name": "TVS NTORQ 125 BS6",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/xx2evkfokzzu-IN/image;s=300x600;q=60",
+        "price":  71000,
+        "place": "Kolkata, West Bengal",
+        "id": "15"
+    },
+    {
+        "createdAt": "23-OCT-22",
+        "name": "Aviator ",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/uqmua0cl6gys2-IN/image;s=300x600;q=60",
+        "price": 45000,
+        "place": "Dehradun, Uttaranchal",
+        "id": "16"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Honda dio 1",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/76f3hrbpsco9-IN/image;s=300x600;q=60",
+        "price":   40000,
+        "place": "Tirthahalli, Karnataka",
+        "id": "17"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Yamaha aerox 155cc",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/0ivv2rhm83cm2-IN/image;s=300x600;q=60",
+        "price": 135000,
+        "place": "Puducherry, Pondicherry",
+        "id": "18"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "TVS Jupiter ",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/x6y3q3xueijc2-IN/image;s=300x600;q=60",
+        "price": 40000,
+        "place": " Kaithal, Haryana",
+        "id": "19"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Pleasure ",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/apchn7eanf3f1-IN/image;s=300x600;q=60",
+        "price": 35000,
+        "place": "Maltekdi, Amravati, Maharashtra",
+        "id": "20"
+    }
+]

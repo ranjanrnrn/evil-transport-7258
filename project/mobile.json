@@ -1,0 +1,162 @@
+[
+    {
+      "createdAt": "02-NOV-22",
+      "name": "iPhone 12 64 GB",
+      "avatar": "https://apollo-singapore.akamaized.net/v1/files/y7l4i82vkq86-IN/image;s=300x600;q=60",
+      "price":  22500,
+      "place": "Gwalior, Madhya Pradesh",
+      "id": "1"
+     },
+    {
+      "createdAt": "02-OVB-22",
+      "name": "Apple iphone X",
+      "avatar": "https://apollo-singapore.akamaized.net/v1/files/68asqnrzozir3-IN/image;s=300x600;q=60",
+      "price": 23000,
+      "place": "Bengaluru, Karnataka",
+      "id": "2"
+     },
+    {
+      "createdAt": "02-NOV-22",
+      "name": "Poco M3 4GB 64GB",
+      "avatar": "https://apollo-singapore.akamaized.net/v1/files/ci7wi6dtt1te2-IN/image;s=300x600;q=60",
+      "price": 8700,
+      "place": "Coimbatore, Tamilnadu",
+      "id": "3"
+     },
+    {
+      "createdAt": "12-NOV-22",
+      "name": "SAMSUNG A53 ",
+      "avatar": "https://apollo-singapore.akamaized.net/v1/files/mw0xvo9s4m6b3-IN/image;s=300x600;q=60",
+      "price": 22999,
+      "place": "Tiruppur, Tamil Nadu",
+      "id": "4"
+     },
+     {
+        "createdAt": "12-NOV-22",
+        "name": "Xiaomi Redmi 9 ",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/70devw2yjjok2-IN/image;s=300x600;q=60",
+        "price": 6000,
+        "place": "Kolkata, West Bengal",
+        "id": "5"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "iPhone X 256gb ",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/t3fsqtavr25y2-IN/image;s=300x600;q=60",
+        "price": 26000,
+        "place": "Patia, Bhubaneshwar, Odisha",
+        "id": "6"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Oppo a15",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/rczrq32px44r1-IN/image;s=300x600;q=60",
+        "price":  5000,
+        "place": "Hardoi, Uttar Pradesh",
+        "id": "7"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "SAMSANG S20 FE 5G ",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/o3ophf423zq4-IN/image;s=300x600;q=60",
+        "price": 29999,
+        "place": "Bundi, Rajasthan",
+        "id": "8"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Pixel 4xl 64gb",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/3v0c0gsm3arp2-IN/image;s=300x600;q=60",
+        "price": 22000,
+        "place": "Keralapuram, Kollam, Kerala",
+        "id": "9"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "iphone 11",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/1mp74lvhxlbe1-IN/image;s=300x600;q=60",
+        "price": 21999,
+        "place": "Gandhi Nagar, Bikaner, Rajasthan",
+        "id": "10"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Redmik50i ",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/yc9ahd5kc3sb1-IN/image;s=300x600;q=60",
+        "price": 19000,
+        "place": "Belagavi, Karnataka",
+        "id": "11"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Realme 6",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/vuthj85pkmml2-IN/image;s=300x600;q=60",
+        "price": 8900,
+        "place": " Kolkata, West Bengali",
+        "id": "12"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Vivo V23",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/8isakxq96kpl3-IN/image;s=300x600;q=60",
+        "price": 24000,
+        "place": "Kurnool, Andhra Pradesh",
+        "id": "13"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "iPhone 14 pro 256GB",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/e2lqr6i82ubk3-IN/image;s=300x600;q=60",
+        "price": 118000,
+        "place": "Hyderabad, Telangana",
+        "id": "14"
+    },
+    {
+        "createdAt": "26-OCT-22",
+        "name": "Samsung s22 plus",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/hzrvtnrra8rt2-IN/image;s=300x600;q=60",
+        "price":  52000,
+        "place": "Hyderabad, Telangana",
+        "id": "15"
+    },
+    {
+        "createdAt": "23-OCT-22",
+        "name": "I phone 7 plus ",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/xh1tankj1v2g2-IN/image;s=300x600;q=60",
+        "price": 15500,
+        "place": "Wazirabad, Delhi",
+        "id": "16"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "redmi mi 5a",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/7e3zkis73mcr2-IN/image;s=300x600;q=60",
+        "price":  12500,
+        "place": "Udaipur, Rajasthan",
+        "id": "17"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "One plus nord n",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/l81c2hvruhng2-IN/image;s=300x600;q=60",
+        "price": 12500,
+        "place": "New Seelampur, Delhi",
+        "id": "18"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Oneplus 6 ",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/q6jfo3hbfp6h3-IN/image;s=300x600;q=60",
+        "price": 14000,
+        "place": "Katargam, Surat, Gujarat",
+        "id": "19"
+    },
+    {
+        "createdAt": "12-NOV-22",
+        "name": "Nothing Phone 1",
+        "avatar": "https://apollo-singapore.akamaized.net/v1/files/km52nitnaohj3-IN/image;s=300x600;q=60",
+        "price": 28500,
+        "place": "Nashik, Maharashtra",
+        "id": "20"
+    }
+]
